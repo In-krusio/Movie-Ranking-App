@@ -1,4 +1,4 @@
-<H1>Movie Ranking App</H1>
+<H1>🎬 Movie Ranking App</H1>
 The Movie Ranking App is a dynamic and interactive application designed for movie enthusiasts to rank their favorite films. Built using React on the front-end and a .NET Web API component on the backend, this app offers a seamless user experience. Utilizing the 'ASP.NET Core with React.js' project template from Visual Studio 2022 (Community Edition), users can drag and drop items from a list onto a ranking grid. Each cell on the grid represents a ranking position, with the top left cell indicating the highest rank and the bottom right cell the lowest. This app provides a hands-on learning experience for developers to understand the integration of React with a .NET Web API, showcasing the practical application of drag-and-drop functionality in a real-world scenario.
 
 <img width="1308" alt="Screenshot 2024-07-29 at 8 28 29 PM" src="https://github.com/user-attachments/assets/398f223e-6df8-4eaf-a44e-5aec034741e5">
